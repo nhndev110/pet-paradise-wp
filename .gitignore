@@ -1,0 +1,31 @@
+# Bỏ qua các tệp hệ thống và tạm thời
+.DS_Store
+Thumbs.db
+*.log
+*.sql
+*.sqlite
+*.zip
+*.tar.gz
+*.rar
+
+# Bỏ qua tệp cấu hình chứa thông tin nhạy cảm
+wp-config.php
+wp-config-sample.php
+.htaccess
+.env
+
+# Bỏ qua các thư mục chứa dữ liệu động
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/languages/
+wp-content/advanced-cache.php
+wp-content/db.php
+wp-content/object-cache.php
+wp-content/wp-cache-config.php
+
+# Bỏ qua thư mục của các công cụ phát triển
+node_modules/
+vendor/
+.idea/
+.vscode/

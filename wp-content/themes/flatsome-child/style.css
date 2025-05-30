@@ -1,0 +1,31 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+main#main .content-area {
+	padding-bottom: 30px;
+    padding-top: 30px;
+	max-width: 1080px;
+	margin: 0 auto;
+}
+
+/* .woocommerce-MyAccount-content {
+	max-width: 1080px;
+	margin: 0 auto;
+} */
+
+.justify-content-center {
+	justify-content: center;
+}
+
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}

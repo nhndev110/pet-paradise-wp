@@ -1,0 +1,2 @@
+<?php
+return ['domain'=>'flatsome','plural-forms'=>'nplurals=2; plural=(n != 1);','language'=>'et_EE','project-id-version'=>'l10n-flatsome','pot-creation-date'=>'2024-04-10T12:28:40+00:00','po-revision-date'=>'2024-04-10 12:31','x-generator'=>'WP-CLI 2.10.0','messages'=>[]];
